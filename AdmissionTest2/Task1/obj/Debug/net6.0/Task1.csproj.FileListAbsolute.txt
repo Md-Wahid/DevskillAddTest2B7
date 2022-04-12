@@ -1,0 +1,15 @@
+F:\Projects\CSharp\Test\Answer\AdmissionTest2\Task1\bin\Debug\net6.0\Task1.exe
+F:\Projects\CSharp\Test\Answer\AdmissionTest2\Task1\bin\Debug\net6.0\Task1.deps.json
+F:\Projects\CSharp\Test\Answer\AdmissionTest2\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+F:\Projects\CSharp\Test\Answer\AdmissionTest2\Task1\bin\Debug\net6.0\Task1.dll
+F:\Projects\CSharp\Test\Answer\AdmissionTest2\Task1\bin\Debug\net6.0\Task1.pdb
+F:\Projects\CSharp\Test\Answer\AdmissionTest2\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+F:\Projects\CSharp\Test\Answer\AdmissionTest2\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\CSharp\Test\Answer\AdmissionTest2\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+F:\Projects\CSharp\Test\Answer\AdmissionTest2\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+F:\Projects\CSharp\Test\Answer\AdmissionTest2\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+F:\Projects\CSharp\Test\Answer\AdmissionTest2\Task1\obj\Debug\net6.0\Task1.dll
+F:\Projects\CSharp\Test\Answer\AdmissionTest2\Task1\obj\Debug\net6.0\refint\Task1.dll
+F:\Projects\CSharp\Test\Answer\AdmissionTest2\Task1\obj\Debug\net6.0\Task1.pdb
+F:\Projects\CSharp\Test\Answer\AdmissionTest2\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+F:\Projects\CSharp\Test\Answer\AdmissionTest2\Task1\obj\Debug\net6.0\ref\Task1.dll
